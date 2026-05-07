@@ -15,13 +15,14 @@ Currently seeking internship or entry-level opportunities in **IT support**, **c
 
 ## Lab Projects
 
-| Project | Tools | Topics |
-|---------|-------|--------|
-| [Packet Analysis with Wireshark](./lab1-wireshark) | Wireshark, ping, curl, netcat | ICMP, TCP, UDP, protocol inspection |
-| [Network Scanning with Nmap](./lab2-nmap) | Nmap, Linux | Port scanning, OS fingerprinting, recon |
-| [Windows Server 2019 Sysadmin](./lab3-windows-server) | Windows Server, AD, PowerShell | User management, VPN, shared resources |
-| [Enterprise Network Design](./lab4-cisco-vlan) | Cisco Packet Tracer | VLANs, OSPF, DHCP, ACLs, firewall |
+## Lab Projects
 
+| Project | Tools | Topics |
+|---|---|---|
+| [Packet Analysis with Wireshark](https://github.com/rajuulamaa/wireshark-traffic-analysis) | Wireshark, ping, curl, netcat | ICMP, TCP, UDP, protocol inspection |
+| [Network Scanning with Nmap](https://github.com/rajuulamaa/Network-Scanning-Security-Reconnaissance-using-Nmap) | Nmap, Linux | Port scanning, OS fingerprinting, recon |
+| [Windows Server 2019 Sysadmin](https://github.com/rajuulamaa/windows-server-2019-system-administration-lab) | Windows Server, AD, PowerShell | User management, VPN, shared resources |
+| [Enterprise Network Design](https://github.com/rajuulamaa/vlan-routing-security-network-design) | Cisco Packet Tracer | VLANs, OSPF, DHCP, ACLs, firewall |
 ---
 
 ## Skills
