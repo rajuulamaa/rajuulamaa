@@ -1,4 +1,4 @@
-# Hi, I'm Raju Lama 👋
+# Hi, I'm Raju Lama 
 
 **Computer Systems Technology student @ NYC College of Technology (CUNY)**  
 Woodside, NY · Expected Graduation: Spring 2027 · GPA: 3.8
